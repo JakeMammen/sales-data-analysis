@@ -4,3 +4,9 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/ # Jupyter temp files
 *.log
+*.csv
+*.zip # if you have compressed data
+__pycache__/
+*.pyc
+.ipynb_checkpoints/ # Jupyter temp files
+*.log
