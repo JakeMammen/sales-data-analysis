@@ -19,8 +19,8 @@ End-to-end exploratory data analysis (EDA) on a retail sales dataset. The projec
 - Jupyter Notebook
 
 ## Dataset
-- Source: [Link to Kaggle / original source here]
-- File: Not included in repo due to size → download from [link]
+- Source: [[Link to Kaggle / original source here](https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales)]
+- File: Not included in repo due to size → download from [[link](https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales)]
 
 ## Key Visuals
 ![Sales By Category](total_sales_by_category.png)
