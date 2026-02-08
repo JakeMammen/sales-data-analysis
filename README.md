@@ -1,7 +1,5 @@
 # Sales Data Analysis Project
 
-![Sales Dashboard Example](sales_trends_dashboard.png)  <!-- replace with your actual image filename -->
-
 ## Overview
 End-to-end exploratory data analysis (EDA) on a retail sales dataset. The project demonstrates data cleaning, transformation, visualization, and deriving business insights using Python (pandas, matplotlib, seaborn).
 
