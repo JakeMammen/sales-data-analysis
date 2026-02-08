@@ -23,7 +23,7 @@ End-to-end exploratory data analysis (EDA) on a retail sales dataset. The projec
 - File: Not included in repo due to size → download from [link]
 
 ## Key Visuals
-![Sales By Category](total_sales_by_Category.png)
+![Sales By Category](total_sales_by_category.png)
 ![Monthly Sales Trend](monthly_sales_trend.png)
 ![Regional Performance](total_sales_by_Region.png)
 
