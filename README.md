@@ -23,9 +23,9 @@ End-to-end exploratory data analysis (EDA) on a retail sales dataset. The projec
 - File: Not included in repo due to size → download from [link]
 
 ## Key Visuals
-![Top Products](top_products.png)
-![Monthly Sales Trend](monthly_sales.png)
-![Regional Performance](regional_heatmap.png)
+![Sales By Category](total_sales_by_Category.png)
+![Monthly Sales Trend](monthly_sales_trend.png)
+![Regional Performance](total_sales_by_Region.png)
 
 ## Business Impact
 This analysis demonstrates how cleaned and visualized sales data can support decisions like:
